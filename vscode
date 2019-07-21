@@ -1,0 +1,25 @@
+設定　json
+
+"emmet.variables": {"lang" : "ja"},
+
+"emmet.syntaxProfiles": {
+    "html": {
+        "filters": "html,c"
+    },
+},
+"emmet.preferences": {
+    "filter.commentAfter": "<!-- /[#ID][.CLASS] -->"
+},
+
+
+"editor.tabSize": 2,
+"editor.detectIndentation": true,
+"editor.insertSpaces": false,
+"editor.renderWhitespace": "boundary",
+"window.newWindowDimensions": "inherit",
+"files.trimTrailingWhitespace": true,
+
+
+key
+editor.emmet.action.balanceOut
+
